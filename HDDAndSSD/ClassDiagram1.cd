@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HDDAndSSD.Program">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDDAndSSD.Storage" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABACAAAAEAAAAAQAAABAAAAA=</HashCode>
+      <FileName>Storage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDDAndSSD.SSD" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAIJAAAAAAAAAAAAAAAAAAEAAAAAAEAAAAAIAE=</HashCode>
+      <FileName>SSD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDDAndSSD.HDD" Collapsed="true">
+    <Position X="8.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAggAAAAAAAAAAAAAAAAAAAABAEAACAAJAE=</HashCode>
+      <FileName>HDD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HDDAndSSD.DVD" Collapsed="true">
+    <Position X="4.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAggAAAAAAAAAAAAAAAEAAAAAAEABCAAIAE=</HashCode>
+      <FileName>DVD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
